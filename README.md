@@ -24,9 +24,9 @@ The DATA-EXPLORATION-AND-VISUALIZATION--DEV project focuses on exploring and ana
 # Tech Stack
 - Programming Language: Python
 - Libraries and Tools:
-     Data Exploration: Pandas, NumPy
-     Visualization: Matplotlib, Seaborn, Plotly, Dash (or Tableau/Power BI)
-     Data Handling: Jupyter Notebook
+    -  Data Exploration: Pandas, NumPy
+    -  Visualization: Matplotlib, Seaborn, Plotly
+     - Data Handling: Jupyter Notebook
 
    ## Contact
 
